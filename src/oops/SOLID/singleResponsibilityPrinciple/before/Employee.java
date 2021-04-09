@@ -8,7 +8,7 @@ import java.nio.file.Paths;
 /*
 Models an employee form a business perspective
  */
-public abstract class Employee {
+public class Employee {
     private String firstName;
     private String lastName;
     private int monthlyIncome;
